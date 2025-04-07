@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="farmacia" id="31B1AE66-51B5-074A-45E9-F56773683475" version="3.5">
+<createdBy>LENOVO</createdBy>
+<createdTime>2025-04-05 02:12:54 UTC</createdTime>
+<ownerDesignName>farmacia</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>31B1AE66-51B5-074A-45E9-F56773683475</designId>
+</OSDM_Design>
